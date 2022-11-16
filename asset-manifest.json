@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/drag-the-chart/static/css/main.cc01fd04.css",
+    "main.css": "/drag-the-chart/static/css/main.4e5460a0.css",
     "main.js": "/drag-the-chart/static/js/main.380d288a.js",
     "index.html": "/drag-the-chart/index.html",
-    "main.cc01fd04.css.map": "/drag-the-chart/static/css/main.cc01fd04.css.map",
+    "main.4e5460a0.css.map": "/drag-the-chart/static/css/main.4e5460a0.css.map",
     "main.380d288a.js.map": "/drag-the-chart/static/js/main.380d288a.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc01fd04.css",
+    "static/css/main.4e5460a0.css",
     "static/js/main.380d288a.js"
   ]
 }
